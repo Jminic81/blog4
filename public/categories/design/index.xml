@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Design on Tracks</title>
+    <title>Design on blog4</title>
     <link>/categories/design/</link>
-    <description>Recent content in Design on Tracks</description>
+    <description>Recent content in Design on blog4</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Your name or company</copyright>
@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>This is a Standard Post</title>
+      <title>Judy posted this</title>
       <link>/post/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/post/work2/</guid>
-      <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
+      <description>&lt;p&gt;And Judy wrote this.
 &lt;/p&gt;</description>
     </item>
     

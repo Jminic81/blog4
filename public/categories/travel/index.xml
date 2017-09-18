@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Travel on Tracks</title>
+    <title>Travel on blog4</title>
     <link>/categories/travel/</link>
-    <description>Recent content in Travel on Tracks</description>
+    <description>Recent content in Travel on blog4</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Your name or company</copyright>
@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>Another Awesome Post</title>
+      <title>Judy posted this, too</title>
       <link>/post/work3/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
       <guid>/post/work3/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
+      <description>&lt;p&gt;Judy wrote this.
 &lt;/p&gt;</description>
     </item>
     
