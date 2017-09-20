@@ -2,13 +2,13 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Judy posted this"
 draft = false
-image = "img/portfolio/logs1.jpg"
+image = "img/portfolio/image2.jpg"
 showonlyimage = false
 categories = [ "Design"]
 weight = 1
 +++
 
-And Judy wrote this.
+Judy wrote this.
 <!--more-->
 
 Blah blah blah

@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/bridge1.jpg"
+image = "img/portfolio/image1.jpg"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Judy posted this, too"
@@ -8,7 +8,7 @@ draft = false
 weight = 2
 +++
 
-Judy wrote this.
+And Judy wrote this.
 <!--more-->
 
 Judy wrote more stuff.
