@@ -1,0 +1,12 @@
+---
+title: Today
+author: Judy
+date: '2017-09-20'
+slug: today
+categories:
+  - R
+tags:
+  - class
+---
+Making blogs
+image:"img/"about.jpg""

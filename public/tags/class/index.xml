@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Class on blog4</title>
+    <link>/tags/class/</link>
+    <description>Recent content in Class on blog4</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2016 Your name or company</copyright>
+    <lastBuildDate>Wed, 20 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/class/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Today</title>
+      <link>/post/today/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/today/</guid>
+      <description>Making blogs image:“img/”about.jpg“”</description>
+    </item>
+    
+  </channel>
+</rss>
