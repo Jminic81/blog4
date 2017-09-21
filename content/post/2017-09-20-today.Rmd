@@ -9,4 +9,4 @@ tags:
   - class
 ---
 Making blogs
-image:"image3.jpg""
+image:"image3.jpg"
